@@ -1,0 +1,15 @@
+IoT Simulate
+
+What is it?
+----------
+
+This project simulates smart homes in which an actor (or more accurately their phone) interacts with an environment containing "things," such as smart light switches, thermostats, cameras, etc. The actor can discover these things and, in time, the thing will learn how to behave in the particular context of that actor.
+
+How do I run it? 
+----------
+Run main from the class in src/SwingComponents/InitialPrompt.java (I'm going to rename this something more useful later). I will probably turn this in to a JAR at some point but I'm not there yet. 
+
+Contact Information
+----------
+Domino Weir
+dominoweir@utexas.edu
